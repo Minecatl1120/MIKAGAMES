@@ -1,0 +1,6 @@
+Package: MIKAGAMES
+Version: 1.0
+Architecture: amd64
+Maintainer: Korbin Larrson <kland1120@outlook.com>
+Depends: python3, pyqt5
+Description: Universal Game Launcher for Steam, Epic Games, and GOG.
